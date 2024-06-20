@@ -95,7 +95,7 @@ namespace Traductor
 			Console.Write("Seleccione el número de la traducción que desea eliminar del diccionario: ");
 			int eliminarTraduccion = int.Parse(Console.ReadLine());
 
-			string eliminar = Traductor.ElementAt(eliminarTraduccion -1).Value;
+			string eliminar = Traductor.ElementAt(eliminarTraduccion -1).Key;
 
 			Traductor.Remove(eliminar);
 			Console.WriteLine("\nLa traducción ha sido eliminada con éxito del diccionario.");
