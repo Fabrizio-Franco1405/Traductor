@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Traductor\bin\Debug\net8.0\Traductor.exe
+C:\Users\Usuario\source\repos\Traductor\bin\Debug\net8.0\Traductor.deps.json
+C:\Users\Usuario\source\repos\Traductor\bin\Debug\net8.0\Traductor.runtimeconfig.json
+C:\Users\Usuario\source\repos\Traductor\bin\Debug\net8.0\Traductor.dll
+C:\Users\Usuario\source\repos\Traductor\bin\Debug\net8.0\Traductor.pdb
+C:\Users\Usuario\source\repos\Traductor\obj\Debug\net8.0\Traductor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Traductor\obj\Debug\net8.0\Traductor.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Traductor\obj\Debug\net8.0\Traductor.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Traductor\obj\Debug\net8.0\Traductor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Traductor\obj\Debug\net8.0\Traductor.dll
+C:\Users\Usuario\source\repos\Traductor\obj\Debug\net8.0\refint\Traductor.dll
+C:\Users\Usuario\source\repos\Traductor\obj\Debug\net8.0\Traductor.pdb
+C:\Users\Usuario\source\repos\Traductor\obj\Debug\net8.0\Traductor.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Traductor\obj\Debug\net8.0\ref\Traductor.dll
